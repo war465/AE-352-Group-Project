@@ -1,0 +1,15 @@
+ref/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls

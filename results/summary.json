@@ -1,0 +1,22 @@
+{
+  "pg1": {
+    "mass_kg": 1.5518,
+    "thrust_to_weight": 2.6716534822233733,
+    "hover_rpm": 4942.444622902245,
+    "max_rpm": 5033.610171388316,
+    "max_motor_current_A": 17.0,
+    "motor_current_limit_A": 17.0,
+    "max_battery_current_A": 32.05138599557027,
+    "energy_used_Wh": 6.608261076756569,
+    "soc_end": 0.9228270627511312,
+    "soc_reserve_ok": true,
+    "min_voltage_V": 16.158171353828735,
+    "max_tilt_deg": 0.0,
+    "hover_duration_s": 120.0,
+    "altitude_mean_m": 1.0000065823145945,
+    "altitude_max_dev_m": 0.00014679661763117302,
+    "pos_error_rms_m": 2.2371964538357306e-05,
+    "pos_error_max_m": 0.00014679661763117302,
+    "pass": true
+  }
+}
